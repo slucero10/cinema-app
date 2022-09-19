@@ -1,0 +1,14 @@
+__pycache__/
+.pytest_cache
+.idea
+.vscode
+.vs
+pyvenv.cfg
+Lib
+Scripts
+
+#virtual environment
+.venv/*
+
+#environment
+.env

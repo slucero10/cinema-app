@@ -1,0 +1,3 @@
+from .local_sql_repository import LocalSQLRepository
+from .sala_sql_repository import SalaSQLRepository
+from .silla_sql_repository import SillaSQLRepository
