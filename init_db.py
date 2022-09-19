@@ -181,4 +181,5 @@ def insert_values(con):
 if __name__ == "__main__":
     db_con = connect_to_db("cinema.db")
     create_tables(db_con)
+    insert_values(db_con)
 
